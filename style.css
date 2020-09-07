@@ -40,8 +40,8 @@ h1 {
     
     content: 'Quick links';
     font-family: 'Permanent Marker', cursive;
-    color: SkyBlue;
-    background-color: white
+    color: rgb(0,0,0);
+    background-color: rgb(100, 0, 0);
     font-size: 18pt;
 }
 
@@ -67,7 +67,7 @@ ul:before {
     content: 'Quick links';
     font-family: 'Permanent Marker', cursive;
     color: rgb(28, 33, 104);
-    background-color: white
+    
     font-size: 18pt;
 }
 
