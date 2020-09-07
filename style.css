@@ -36,7 +36,13 @@ h1 {
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: 0 100%;
-    transition: background-size 0.25s ease-in;        
+    transition: background-size 0.25s ease-in;
+    
+    content: 'Quick links';
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(28, 33, 104);
+    background-color: white
+    font-size: 18pt;
 }
 
 img {
