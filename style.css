@@ -29,7 +29,7 @@ h1 {
     grid-row-start: 1;
     grid-column-start: 1;
     grid-column-end: 3;
-    color: white;
+    color: SkyBlue;
     font-size: 48pt;
     font-family: 'Playfair Display', sans-serif;
   
@@ -43,7 +43,7 @@ h1 {
     font-family: 'Permanent Marker', cursive;
     text-align: center;
     border: solid black 3px;
-    background: linear-gradient(45deg, purple, darkBlue);
+    background: Black
     border-radius: 10px;
     font-size: 18pt;
 }
