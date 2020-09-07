@@ -38,13 +38,6 @@ h1 {
     background-size: 100% 0.2em;
     background-position: 0 100%;
     transition: background-size 0.25s ease-in;
-    
-    content: 'Quick links';
-    font-family: 'Permanent Marker', cursive;
-    text-align: center;
-    border: solid black 3px;
-    background: Black
-    border-radius: 10px;
     font-size: 18pt;
 }
 
